@@ -238,4 +238,4 @@
 - [Eliardo Costa](https://github.com/eliardocosta)
 - [Varun M]
 - [Junior Gantin](https://github.com/nioperas06)
-- [Carl Hamilton](https://github.com/carlhamilton)
+- [Carl Matthew Hamilton](https://github.com/carlhamilton)
